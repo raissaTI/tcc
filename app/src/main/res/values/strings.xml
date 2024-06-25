@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">cadastro</string>
+    <string name="cadastre_se">Cadastre-se:</string>
+    <string name="voltar">Voltar</string>
+    <string name="preencha_todos_os_campos">Preencha todos os campos:</string>
+    <string name="todo">TODO</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="data_de_nascimento">Data de nascimento:</string>
+    <string name="Senha">senha</string>
+    <string name="confirme_o_e_mail">Confirme o E-mail:</string>
+    <string name="confirme_a_senha">Confirme a senha:</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="seus_favoritos_est_vazio">Seus favoritos está vazio!</string>
+    <string name="meus_favoritos">Meus favoritos</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="in_cio">Início</string>
+    <string name="escolha_alguns_produtos_do_nosso">Escolha alguns produtos do nosso</string>
+    <string name="cat_logo_para_favoritar">catálogo para favoritar.</string>
+    <string name="adicionar_produtos">Adicionar produtos</string>
+    <string name="sobre_n_s">Sobre nós:</string>
+    <string name="empresa_fundada_no_ano_de_2023_nosso_principal_objetivo_levar_conforto_atrav_s_das_nossas_plantas">Empresa fundada no ano de 2023. Nosso principal objetivo é levar conforto através das nossas plantas.</string>
+    <string name="fale_conosco">Fale conosco:</string>
+    <string name="gaiagarden_atedimento_com_telefone_11_1234_5678">gaiagarden@atedimento.com Telefone: (11) 1234-5678</string>
+</resources>
